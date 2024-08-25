@@ -1,0 +1,38 @@
+.tela_votos{
+	justify-content: center;
+	width: 40%;
+	margin:0 auto;
+	border: 1px black solid;
+	border-radius: 15px;
+	//background-color: #000000;
+}
+.tela_votos  input{
+	align-items: center;
+}
+.votos  button{
+	background-color: #32CD32;
+	border-radius: 7px;
+	padding: 4px;
+	color: white;
+}
+.votos a{
+	text-decoration: 0;
+	margin-left: 2%;
+	color: white;
+	border-radius: 4px;
+	padding: 4px;
+	background-color: #DC143C;
+	border: 1px black solid;
+}
+/*
+a >.delete{
+ text-decoration: 0;
+	margin-left: 2%;
+	color: white;
+	border-radius: 4px;
+	padding: 4px;
+	background-color: "orange";
+	border: 1px black solid;	
+}
+*/
+
